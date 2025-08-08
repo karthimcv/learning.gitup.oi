@@ -36,7 +36,7 @@
   </style>
 </head>
 <body>
-  <h1 class="fade-in-text">Welcome to pralkash web!</h1>
+  <h1 class="fade-in-text">Welcome to karthi web!</h1>
 </body><html lang="en">
 <head>
   <meta charset="UTF-8">
